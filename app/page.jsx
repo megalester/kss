@@ -37,7 +37,7 @@ const Page = () => {
         </div>
 
         <div className="max-md:hidden">
-          <Image
+          <img
             src={"/images/HP25_STRATA_ELT_July_APLY_Hero.png"}
             alt="Card"
             width={320}
@@ -51,7 +51,7 @@ const Page = () => {
         </div>
 
         <div className="max-md:block hidden">
-          <Image
+          <img
             src={"/images/HP25_STRATA_ELT_July_APLY_Hero.png"}
             alt="Card"
             width={320}
@@ -62,7 +62,7 @@ const Page = () => {
       </section>
 
       <section className="mx-6 max-md:max-2 border border-gray-300 rounded-2xl mt-[-30px] bg-white flex-center p-2">
-        <Image
+        <img
           src={"/images/hero-card.jpg"}
           alt="Card"
           width={1200}

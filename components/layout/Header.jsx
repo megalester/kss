@@ -6,14 +6,14 @@ const Header = () => {
     <header className="px-12 max-md:px-5 bg-white">
       <div className="flex-between max-md:!block">
         <div className="flex gap-3 max-md:justify-between">
-          <Image
+          <img
             src={"/images/citi-logo.svg"}
             alt="Citi"
             width={80}
             height={70}
             className="object-contain"
           />
-          <Image
+          <img
             src={"/images/fdic-insured.jpg"}
             alt="Citi"
             width={450}
@@ -22,7 +22,7 @@ const Header = () => {
           />
         </div>
         <div className="max-md:hidden">
-          <Image
+          <img
             src={"/images/atm.jpg"}
             alt="Citi"
             width={180}

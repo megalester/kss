@@ -46,7 +46,7 @@ const Footer = () => {
         />
 
         <div>
-          <Image
+          <img
             src={"/images/homeicon.jpg"}
             alt="Card"
             width={70}
@@ -57,7 +57,7 @@ const Footer = () => {
       </section>
 
       <div className="my-7">
-        <Image
+        <img
           src={"/images/footericons.jpg"}
           alt="Card"
           width={1200}
@@ -103,7 +103,7 @@ const Footer = () => {
       </div>
 
       <div className="mt-7">
-        <Image
+        <img
           src={"/images/citiredesign-footer.svg"}
           alt="Card"
           width={80}
